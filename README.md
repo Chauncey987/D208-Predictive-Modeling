@@ -1,2 +1,4 @@
 # D208-Predictive-Modeling
-Task 1: Linear Regression Explore a real-world issue with multiple linear regression, focusing on data preparation, model comparison, and actionable insights.  Task 2: Logistic Regression Use logistic regression to predict categorical outcomes, emphasizing data prep, model refinement, and recommendations.
+Task 1: Linear Regression Modeling This task involves analyzing a real-world organizational situation using multiple linear regression. The research question guides the exploration of how independent variables affect a dependent variable, aiming to provide insights for decision-making. The analysis includes understanding assumptions, cleaning and preparing data, comparing models, and deriving actionable recommendations based on findings.
+
+Task 2: Logistic Regression Modeling This task focuses on addressing a real-world organizational question through logistic regression, which predicts categorical outcomes based on explanatory variables. It entails defining a relevant question, preparing and transforming data, constructing and refining models, and evaluating results to offer data-driven recommendations and insights.
